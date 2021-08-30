@@ -1,0 +1,85 @@
+{
+  "title": "docs · wiki",
+  "author": "Chiba Mai",
+  "description": "wiki",
+  "language": "zh-hans",
+  "plugins": [
+    "github",
+    "github-buttons",
+    "-sharing",
+    "-insert-logo",
+    "sharing-plus",
+    "back-to-top-button",
+    "-code",
+    "copy-code-button",
+    "katex",
+    "-pageview-count",
+    "edit-link",
+    "emphasize",
+    "auto-scroll-table",
+    "-popup",
+    "hide-element",
+    "page-toc-button",
+    "tbfed-pagefooter",
+    "advanced-emoji",
+    "expandable-chapters",
+    "-splitter",
+    "search-pro",
+    "accordion",
+    "flexible-alerts"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/Aftersoil/Aftersoil-wiki"
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "Aftersoil",
+        "repo": "Aftersoil-wiki",
+        "type": "star",
+        "count": true,
+        "size": "lg"
+      }]
+    },
+    "hide-element": {
+      "elements": [
+        ".gitbook-link"
+      ]
+    },
+    "edit-link": {
+      "base": "https://github.com/Aftersoil/Aftersoil-wiki/blob/master",
+      "label": "编辑本页"
+    },
+    "sharing": {
+      "qzone": false,
+      "weibo": false,
+      "twitter": true,
+      "facebook": true,
+      "google": false,
+      "line": false,
+      "whatsapp": false,
+      "douban": false,
+      "all": [
+        "douban",
+        "facebook",
+        "google",
+        "linkedin",
+        "twitter",
+        "weibo",
+        "whatsapp"
+      ]
+    },
+    "page-toc-button": {
+      "maxTocDepth": 4,
+      "minTocSize": 4
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Chiba Mai © ibooker.org.cn 2020",
+      "modify_label": "该文件修订时间: ",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  },
+  "styles": {
+    "customize": "/styles/customize.css"
+  }
+}
