@@ -4,29 +4,36 @@
   "description": "wiki",
   "language": "zh-hans",
   "plugins": [
+    "-sharing",
+    "-lunr", 
+    "-search",
+    "-insert-logo",
+    "-code",
+    "-pageview-count",
+    "-popup",
+    "-splitter",
+    "-highlight",
+    "-change_girls",
     "github",
     "github-buttons",
-    "-sharing",
-    "-insert-logo",
     "sharing-plus",
     "back-to-top-button",
-    "-code",
     "copy-code-button",
     "katex",
-    "-pageview-count",
     "edit-link",
     "emphasize",
     "auto-scroll-table",
-    "-popup",
     "hide-element",
     "page-toc-button",
     "tbfed-pagefooter",
     "advanced-emoji",
     "expandable-chapters",
-    "-splitter",
     "search-pro",
     "accordion",
-    "flexible-alerts"
+    "flexible-alerts",
+    "livereload",
+    "prism",
+    "lightbox"
   ],
   "pluginsConfig": {
     "github": {
@@ -80,6 +87,6 @@
     }
   },
   "styles": {
-    "customize": "/styles/customize.css"
+    "website": "/gitbook/website/website.css"
   }
 }

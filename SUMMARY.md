@@ -3,7 +3,7 @@
 * [docs · wiki](README.md)
 
 <!--  前端文档 -->
-* web
+* web 前端文档
   <!-- html -->
   * HTML
     * [HTML](/web/HTML/README.md)
@@ -23,6 +23,15 @@
   <!-- css3 -->
   * css3
     * [CSS3](/web/CSS3/README.md)
+  <!-- JavaScript -->
+  * JavaScript
+    * [JavaScript 基础](/web/JavaScript/README.md)
+    * [数据类型](/web/JavaScript/typeof-data.md)
+    * [流程控制](/web/JavaScript/process-control.md)
+    * [函数对象](/web/JavaScript/function.md)
+    * [数组](/web/JavaScript/array.md)
+    * [字符串 API](/web/JavaScript/string-api.md)
+    * [Date 对象](/web/JavaScript/date.md)
   <!-- ajax -->
   * ajax
     * [Ajax](/web/Ajax/README.md)

@@ -20,17 +20,17 @@
 
 | 文档名称 | 标签分类 | 更新状态 |
 | ------- | :------- | :-----: |
-| [HTML](https://wiki.aftersoil.xyz/frontend/HTML/) | HTML + CSS | 待完善 👊 |
-| [HTML5](https://wiki.aftersoil.xyz/frontend/HTML5/) | HTML + CSS | 待完善 👊 |
-| [CSS + CSS3](https://wiki.aftersoil.xyz/frontend/CSS/) | HTML + CSS | 待添加 😄 |
-| [BootStrap 基础](https://wiki.aftersoil.xyz/frontend/BootStrap/) | HTML + CSS | 待完善 👊 |
-| [JavaScript 基础](https://wiki.aftersoil.xyz/frontend/javaScript/) | JavaScript | 待完善 👊 |
-| [NodeJS](https://wiki.aftersoil.xyz/frontend/NodeJS/) | NodeJS | 待完善 👊 |
-| [Express](https://wiki.aftersoil.xyz/frontend/Express/) | NodeJS | 待完善 👊 |
-| [Ajax](https://wiki.aftersoil.xyz/frontend/Ajax/) | Ajax | 持续更新中 ✌️ ✊ |
-| [WeChat](https://wiki.aftersoil.xyz/frontend/weChat/) | WeChat | 待完善 👊 |
-| [jQuery 基础](https://wiki.aftersoil.xyz/frontend/jQuery/) | jQuery | 待完善 👊 |
-| [webpack](https://wiki.aftersoil.xyz/frontend/webpack/) | webpack | 待完善 👊 |
+| [HTML]() | HTML + CSS | 待完善 👊 |
+| [HTML5]() | HTML + CSS | 待完善 👊 |
+| [CSS + CSS3]() | HTML + CSS | 待添加 😄 |
+| [BootStrap 基础]() | HTML + CSS | 待完善 👊 |
+| [JavaScript 基础]() | JavaScript | 待完善 👊 |
+| [NodeJS]() | NodeJS | 待完善 👊 |
+| [Express]() | NodeJS | 待完善 👊 |
+| [Ajax]() | Ajax | 持续更新中 ✌️ ✊ |
+| [WeChat]() | WeChat | 待完善 👊 |
+| [jQuery 基础]() | jQuery | 待完善 👊 |
+| [webpack]() | webpack | 待完善 👊 |
 
 ## 后端文档
 
@@ -42,11 +42,11 @@
 
 | 文档名称 | 文档签分类 | 更新状态 |
 | ------- | --------- | :------: |
-| [Git](https://wiki.aftersoil.xyz/other/git/) | Git | 待添加 😄 |
-| [pwa](https://wiki.aftersoil.xyz/other/pwa/) | pwa | 待添加 😄 |
-| [MarkDown](https://wiki.aftersoil.xyz/other/MarkDown/) | MarkDown | 待完善 👊 |
-| [Visual Studio Code](https://wiki.aftersoil.xyz/other/VScode/) | Visual Studio Code | 待添加 😄 |
-| [Download](https://wiki.aftersoil.xyz/other/Download/) | pwa | 待添加 😄 |
+| [Git]() | Git | 待添加 😄 |
+| [pwa]() | pwa | 待添加 😄 |
+| [MarkDown]() | MarkDown | 待完善 👊 |
+| [Visual Studio Code]() | Visual Studio Code | 待添加 😄 |
+| [Download]() | pwa | 待添加 😄 |
 
 ## 前后端面试题
 
