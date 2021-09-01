@@ -1,19 +1,20 @@
 {
   "title": "docs · wiki",
   "author": "Chiba Mai",
-  "description": "wiki",
+  "description": "wiki,文档,文章,面试题,代码功能",
   "language": "zh-hans",
   "plugins": [
     "-sharing",
     "-lunr", 
     "-search",
-    "-insert-logo",
     "-code",
     "-pageview-count",
     "-popup",
     "-splitter",
     "-highlight",
     "-change_girls",
+    "-auto-scroll-table",
+    "insert-logo",
     "github",
     "github-buttons",
     "sharing-plus",
@@ -22,7 +23,6 @@
     "katex",
     "edit-link",
     "emphasize",
-    "auto-scroll-table",
     "hide-element",
     "page-toc-button",
     "tbfed-pagefooter",
@@ -37,12 +37,16 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/Aftersoil/Aftersoil-wiki"
+      "url": "https://github.com/ChibaMai/docs-wiki"
+    },
+    "insert-logo": {
+      "url": "https://blog.chibamai.xyz/_nuxt/img/Avatar.8f62f10.jpg",
+      "style": "background: none; max-height: 100px; min-height: 100px; border-radius: 50%;"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "Aftersoil",
-        "repo": "Aftersoil-wiki",
+        "user": "ChibaMai",
+        "repo": "docs-wiki",
         "type": "star",
         "count": true,
         "size": "lg"
@@ -54,8 +58,12 @@
       ]
     },
     "edit-link": {
-      "base": "https://github.com/Aftersoil/Aftersoil-wiki/blob/master",
+      "base": "https://github.com/ChibaMai/docs-wiki/blob/master",
       "label": "编辑本页"
+    },
+    "favicon":{
+      "shortcut":"favicon.ico",
+      "bookmark":"favicon.ico"
     },
     "sharing": {
       "qzone": false,

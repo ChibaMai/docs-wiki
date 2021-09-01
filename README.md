@@ -52,13 +52,13 @@
 
 | 文档名称 | 文档签分类 | 更新状态 |
 | ------- | --------- | :------: |
-|  |  |  |
+| null | null | null |
 
 ## 代码功能
 
 | 文档名称 | 文档签分类 | 更新状态 |
 | ------- | --------- | :------: |
-|  |  |  |
+| null | null | null |
 
 
 <!-- 标签解释
@@ -80,14 +80,14 @@
   - 中文   [下载](https://images.aftersoil.xyz/compression/)
 -->
 
-## 贡献题目
+## 致谢
 
-感谢所有为 Aftersoil wiki 做出贡献的人。
+[感谢所有为 docs · wiki 做出贡献的人](/About%20us/#贡献者)。
 
 ## 转载说明
 
 > 可以转载里面的所有面试题用到任何地方，但请添加仓库地址和链接，因为有的转载后不会及时更新，但改仓库会及时的更新。
 
-> 此开源仓库不收取任何费用，在此 **郑重说明不会收取任何费用**，也不会授权任何人/机构进行收费，如有收费请及时[联系](https://github.com/Thomasvader)本人
+> 此开源仓库不收取任何费用，在此 **郑重说明不会收取任何费用**，也不会授权任何人/机构进行收费，如有收费请及时[联系](https://github.com/ChibaMai)本人
 
-> 不需要对改库进行爬虫，基本上都是Markdown格式文档，只需要打开浏览器就能访问，如需要什么格式，还请[联系我](https://github.com/Thomasvader)或者提[问题](https://github.com/Aftersoil/Aftersoil-wiki/issues)。
+> 不需要对改库进行爬虫，基本上都是Markdown格式文档，只需要打开浏览器就能访问，如需要什么格式，还请[联系我](https://github.com/ChibaMai)或者提[问题](https://github.com/ChibaMai/docs-wiki/issues/)。
