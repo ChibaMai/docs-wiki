@@ -10,75 +10,47 @@
 
 ## 表情说明
 | 表情 | 说明 |
-| :--: | :--: |
+| :---: | :---: | :---: |
 | 待添加 | 😄 |
 | 持续更新中 | ✊ |
 | 待完善 | 👊 |
 | 已完结 | ✌️ |
 
-## 前端文档
+## web 前端文档
 
 | 文档名称 | 标签分类 | 更新状态 |
-| ------- | :------- | :-----: |
+| :---: | :---: | :---: |
 | [HTML]() | HTML + CSS | 待完善 👊 |
 | [HTML5]() | HTML + CSS | 待完善 👊 |
-| [CSS + CSS3]() | HTML + CSS | 待添加 😄 |
-| [BootStrap 基础]() | HTML + CSS | 待完善 👊 |
+| [CSS]() | CSS | 待添加 😄 |
+| [CSS3]() | CSS3 | 待添加 😄 |
 | [JavaScript 基础]() | JavaScript | 待完善 👊 |
-| [NodeJS]() | NodeJS | 待完善 👊 |
-| [Express]() | NodeJS | 待完善 👊 |
 | [Ajax]() | Ajax | 持续更新中 ✌️ ✊ |
-| [WeChat]() | WeChat | 待完善 👊 |
 | [jQuery 基础]() | jQuery | 待完善 👊 |
+| [BootStrap 基础]() | HTML + CSS | 待完善 👊 |
+| [微信小程序]() | WeChat | 待完善 👊 |
+| [TypeScript 基础]() | jQuery | 待完善 👊 |
+
+## web 后端文档
+
+| 文档名称 | 标签分类 | 更新状态 |
+| :---: | :---: | :---: |
+| [EggJS]() | NodeJS | 待完善 👊 |
+| [NodeJS]() | NodeJS | 待完善 👊 |
 | [webpack]() | webpack | 待完善 👊 |
+| [Express]() | NodeJS | 待完善 👊 |
 
 ## 后端文档
 
 | 文档名称 | 文档签分类 | 更新状态 |
-| ------- | --------- | :------: |
-| [MySQL 基础](https://wiki.aftersoil.xyz/rearend/MySQL/) | MySQL | 待完善 👊 |
-
-## 其它文档
-
-| 文档名称 | 文档签分类 | 更新状态 |
-| ------- | --------- | :------: |
-| [Git]() | Git | 待添加 😄 |
-| [pwa]() | pwa | 待添加 😄 |
-| [MarkDown]() | MarkDown | 待完善 👊 |
-| [Visual Studio Code]() | Visual Studio Code | 待添加 😄 |
-| [Download]() | pwa | 待添加 😄 |
-
-## 前后端面试题
-
-| 文档名称 | 文档签分类 | 更新状态 |
-| ------- | --------- | :------: |
+| :---: | :---: | :---: |
 | null | null | null |
 
-## 代码功能
+## 数据库文档
 
 | 文档名称 | 文档签分类 | 更新状态 |
-| ------- | --------- | :------: |
+| :---: | :---: | :---: |
 | null | null | null |
-
-
-<!-- 标签解释
-  已完结 ✌️
-  待完善 👊
-  持续更新中 ✊
-  待添加 😄
-
-插入图片方法
-  ![alt text](https://images.aftersoil.xyz/)
-
-插入视频方法
-  <div class="video">
-    <video src="https://images.aftersoil.xyz/" controls preload></video>
-  </div>
-
-软件下载链接代码
-  - 英文   [Download](https://images.aftersoil.xyz/compression/)
-  - 中文   [下载](https://images.aftersoil.xyz/compression/)
--->
 
 ## 致谢
 
