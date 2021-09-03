@@ -27,9 +27,14 @@
 | [JavaScript 基础]() | JavaScript | 待完善 👊 |
 | [Ajax]() | Ajax | 持续更新中 ✌️ ✊ |
 | [jQuery 基础]() | jQuery | 待完善 👊 |
-| [BootStrap 基础]() | HTML + CSS | 待完善 👊 |
 | [微信小程序]() | WeChat | 待完善 👊 |
 | [TypeScript 基础]() | jQuery | 待完善 👊 |
+
+## web 前端框架
+
+| 文档名称 | 标签分类 | 更新状态 |
+| :---: | :---: | :---: |
+| [BootStrap 基础]() | HTML + CSS | 待完善 👊 |
 
 ## web 后端文档
 

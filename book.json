@@ -13,9 +13,10 @@
     "-highlight",
     "-change_girls",
     "insert-logo",
-    "-auto-scroll-table",
+    "auto-scroll-table",
     "-page-toc-button",
     "-back-to-top-button",
+    "-advanced-emoji",
     "pageview-count",
     "github",
     "github-buttons",
@@ -26,7 +27,6 @@
     "emphasize",
     "hide-element",
     "tbfed-pagefooter",
-    "advanced-emoji",
     "expandable-chapters",
     "search-pro",
     "accordion",
@@ -45,7 +45,7 @@
       "url": "https://github.com/ChibaMai/docs-wiki"
     },
     "insert-logo": {
-      "url": "/gitbook/images/20210330111938.jpg",
+      "url": "https://blog.chibamai.xyz/_nuxt/img/Avatar.8f62f10.jpg",
       "style": "background: none; max-height: 100px; min-height: 100px; border-radius: 50%;"
     },
     "github-buttons": {
